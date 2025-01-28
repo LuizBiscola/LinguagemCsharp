@@ -1,0 +1,15 @@
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.AssemblyInfoInputs.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.AssemblyInfo.cs
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.csproj.CoreCompileInputs.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.sourcelink.json
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\bin\Debug\net9.0\alimentar_vetor.exe
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\bin\Debug\net9.0\alimentar_vetor.deps.json
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\bin\Debug\net9.0\alimentar_vetor.runtimeconfig.json
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\bin\Debug\net9.0\alimentar_vetor.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\bin\Debug\net9.0\alimentar_vetor.pdb
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\refint\alimentar_vetor.dll
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.pdb
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\alimentar_vetor.genruntimeconfig.cache
+C:\Users\VIRTUAL INFORMATICA\OneDrive\Documentos\LinguagemC#\alimentar_vetor\obj\Debug\net9.0\ref\alimentar_vetor.dll
